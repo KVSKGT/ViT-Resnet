@@ -29,7 +29,7 @@ The proposed hybrid model consists of:
 
 3. **Fully Connected Classification Head**
    - Outputs binary classification (Normal / Pneumonia).
-
+Link for model- https://drive.google.com/file/d/1rzA5QCxDHUj0ETF4O813rDrRlT0bEUDC/view?usp=sharing
 ---
 
 ## ⚙️ Training Details
